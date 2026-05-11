@@ -36,10 +36,10 @@ public class primeNumbers {
     }
 
     // Apagar depois, isso não foi pedido
-    void main(){
-        int n = 10; //entrada
-        System.out.println("Primos recursivo até " + n + ": " + primosRecursivo(n));
-        System.out.println("Primos linear até " + n + ": " + primosLinear(n));
-    }
+    //void main(){
+    //    int n = 10; //entrada
+    //    System.out.println("Primos recursivo até " + n + ": " + primosRecursivo(n));
+    //    System.out.println("Primos linear até " + n + ": " + primosLinear(n));
+    //}
 }
 

@@ -26,9 +26,9 @@ public class Fibonacci {
     }
 }
 
-//Execução teste REMOVER MAIS TARDE (não foi pedido)
-void main() {
-    int n = 10; // Exemplo de entrada
-    System.out.println("Fibonacci recursivo de  " + n + ": " + Fibonacci.fibonacciRecursivo(n));
-    System.out.println("Fibonacci linear de " + n  + ": " + Fibonacci.fibonacciLinear(n));
-}
+//Testes para facilitar avaliação
+//void main() {
+//  int n = 12; // Exemplo de entrada
+//    System.out.println("Fibonacci recursivo de  " + n + ": " + Fibonacci.fibonacciRecursivo(n));
+//    System.out.println("Fibonacci linear de " + n  + ": " + Fibonacci.fibonacciLinear(n));
+//}
